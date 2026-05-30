@@ -1,0 +1,6 @@
+{
+  "name": "Portfolio Performance Analyzer",
+  "description": "A highly polished, production-ready portfolio performance analyzer and quant dashboard to manually input asset holdings, select a benchmark, and run deep performance calculations with real historical stock data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
